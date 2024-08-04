@@ -24,7 +24,7 @@ public class linklist {
     }
 
     public static void main(String[] args) {
-				linklist list = new linklist();
+		linklist list = new linklist();
 
         list.insertAtEnd(1);
         list.insertAtEnd(2);

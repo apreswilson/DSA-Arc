@@ -1,3 +1,6 @@
+from typing import Optional
+
+
 class Node:
     def __init__(self, new_data):
         self.data = new_data
@@ -31,7 +34,8 @@ class LinkedList:
         newNode.next = curr.next
         curr.next = newNode
         return self.head
-
+    
+ 
 if __name__ == "__main__":
     llist = LinkedList()
     llist.insertAtBeginning(5)
@@ -44,3 +48,4 @@ if __name__ == "__main__":
 
     llist.insertNewNode(2, 2.5)
     llist.printList()
+

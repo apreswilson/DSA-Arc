@@ -47,7 +47,7 @@ def merge(left, right):
 	return result
 
 def main():
-	unsortedArr = [3, 7, 6, -10, 15, 23.5, 55, -13]
+	unsortedArr = [3, 7, 6, -10]
 	sortedArr = mergeSort(unsortedArr)
 	print(sortedArr)
 

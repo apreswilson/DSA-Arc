@@ -1,0 +1,15 @@
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\bin\Debug\net8.0\Starter.exe
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\bin\Debug\net8.0\Starter.deps.json
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\bin\Debug\net8.0\Starter.dll
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\bin\Debug\net8.0\Starter.pdb
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.sourcelink.json
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.dll
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\refint\Starter.dll
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.pdb
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+C:\coding\dsa-arc\net\csharpprojects\guidedproj2\challengeproject\starter\obj\Debug\net8.0\ref\Starter.dll
